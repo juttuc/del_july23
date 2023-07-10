@@ -1,2 +1,3 @@
 This is the first line of my learning UNIX + GIT
 Entering random data
+entering data to merge in br
