@@ -3,6 +3,7 @@ Learning Unix
 And GIT
 I added a new line over here
 dding new line in br1
+This line is added to test pull command which is combo of FETCH and MERGE
 
 
 
